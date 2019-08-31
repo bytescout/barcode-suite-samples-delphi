@@ -1,0 +1,8 @@
+## Index of source code examples:
+
+\Barcode reading in console with barcode reader sdk
+\Generate barcode from console with barcode sdk
+\Generate barcode on forms with barcode sdk
+\Print barcode with barcode sdk
+\Read barcodes from subfolder with barcode reader sdk
+\Set barcode options and code128 alphabet with barcode sdk
